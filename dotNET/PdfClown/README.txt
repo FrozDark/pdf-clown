@@ -24,3 +24,4 @@ Resources
   * Previous section [../README.html]: move to previous section
   * Next section [../pdfclown.samples.cli/README.html]: move to next section
   * INDEX [../../main/INDEX.html]: move to the distribution map
+
